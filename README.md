@@ -19,3 +19,4 @@ ID: 1669745066209
 
 These are actually Anki flash cards. I use Obsidian to take my notes and I run a plugin that generates flashcards from this syntax. The test before the "::" is the front of the card, and the rest is the back of the card. 
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=mischavandenburg-az-104&left_color=green&right_color=red)
