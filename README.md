@@ -2,6 +2,8 @@
 
 This repo contains my notes for the AZ-104 certification.
 
+I also wrote a full [study guide](https://mischavandenburg.com/articles/az-104-study-guide/).
+
 I spent 80 hours studying for this exam. 
 
 There are two directories in this repo, "msdocs" and "other." The "msdocs" directory contains my notes and summaries of the Microsoft Learn modules. The "other" directory contains notes from YouTube videos and other supplemental resources I used. 
